@@ -4,7 +4,7 @@ Projeto desenvolvido para automatizar a distribuição de alunos em disciplinas 
 
 ## Problema
 
-A escola possui aproximadamente 540 alunos que escolhem 3 eletivas em ordem de prioridade.  
+A escola possui cerca de 50 alunos que escolheram 3 eletivas em ordem de prioridade.  
 Cada eletiva possui limite de vagas.
 
 O processo manual levava horas.
