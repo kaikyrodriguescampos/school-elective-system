@@ -35,4 +35,4 @@ Sistema desenvolvido em C# que:
 
 ## Autor
 
-Kaiky Rodrigues
+Kaiky Rodrigues ft Kaleebee Rodrigues
